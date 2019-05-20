@@ -1,0 +1,8 @@
+.FormInput {
+    display: flex;
+    margin: 5px; 
+}
+
+.FormInput span{
+    margin-left: 3px;
+}
